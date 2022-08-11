@@ -1,8 +1,0 @@
-.header__link {
-  text-decoration: none;
-  color: #2f80ed;
-}
-
-.header__link:hover {
-  animation: opacity 2s linear forwards;
-}
